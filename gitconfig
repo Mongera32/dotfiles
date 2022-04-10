@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = victor.ferreira.lopes.silva@gmail.com
+	name = victor silva
